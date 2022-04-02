@@ -1,0 +1,4 @@
+﻿  GA-Algorithm.cpp
+D:\GoogleDownload\GA-Algorithm-main\GA-Algorithm\GA-Algorithm.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\GoogleDownload\GA-Algorithm-main\GA-Algorithm\GA-Algorithm.cpp(149,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GA-Algorithm.vcxproj -> D:\GoogleDownload\GA-Algorithm-main\x64\Debug\GA-Algorithm.exe

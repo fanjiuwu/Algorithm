@@ -1,0 +1,4 @@
+﻿  GA-Algorithm.cpp
+C:\Users\12462\source\repos\GA-Algorithm\GA-Algorithm\GA-Algorithm.cpp(32,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\12462\source\repos\GA-Algorithm\GA-Algorithm\GA-Algorithm.cpp(137,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GA-Algorithm.vcxproj -> C:\Users\12462\source\repos\GA-Algorithm\x64\Debug\GA-Algorithm.exe
